@@ -3,7 +3,9 @@ node_modules/
 .DS_Store
 
 .idea
-
+yarn.lock
+package-lock.json
+*bak
 .vscode
 
 # umi
